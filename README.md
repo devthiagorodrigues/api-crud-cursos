@@ -39,7 +39,7 @@ crud/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/devthiagorodrigues/crud.git
+git clone https://github.com/devthiagorodrigues/api-crud-cursos.git
 
 # Navegue até a pasta do projeto
 cd crud
