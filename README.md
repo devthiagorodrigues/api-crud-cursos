@@ -59,7 +59,8 @@ A API estará disponível em `http://localhost:3000`.
 
 | Método | Rota         | Descrição                 |
 | ------ | ------------ | ------------------------- |
-| GET    | `/curso`     | Retorna a lista de cursos |
+| GET    | `/cursos`    | Retorna a lista de cursos |
+| GET    | `/curso/:id` | Retorna um curso          |
 | POST   | `/curso`     | Adiciona um novo curso    |
 | PUT    | `/curso/:id` | Atualiza curso pelo ID    |
 | DELETE | `/curso/:id` | Remove curso pelo ID      |
@@ -76,6 +77,5 @@ A API estará disponível em `http://localhost:3000`.
 
 ## 👤 Sobre mim
 
-Feito com amor <3
-
+❤️ **Feito com amor e café ☕️ por**  
 [LinkedIn](https://www.linkedin.com/in/devthiagorodrigues/) | [GitHub](https://github.com/devthiagorodrigues)
